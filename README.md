@@ -5,7 +5,8 @@
 **Date:** April 2024  
 **Role:** Lead Surveyor  
 **Client:** Chevron Nigeria Limited  
-**Vessel:** MC CELTIC ZION  
+**Vessel:** MC CELTIC ZION 
+**Contractor:** Prime Souces Limited
 
 ## Responsibilities  
 - Collaborated with the project client and Project Manager to define the survey scope, objectives, and deliverables.  
